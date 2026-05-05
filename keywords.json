@@ -1,0 +1,15 @@
+{
+  "health": ["gym", "workout", "exercise", "walk", "jogging", "running", "yoga", "sports"],
+
+  "study": ["study", "parhai", "lecture", "read", "learning", "course", "assignment", "notes", "revision"],
+
+  "prayer": ["fajr", "zuhr", "asr", "maghrib", "isha", "namaz", "prayer", "quran", "tilawat"],
+
+  "meal": ["breakfast", "lunch", "dinner", "khana", "nashta", "chai", "coffee", "eating"],
+
+  "work": ["work", "office", "meeting", "project", "task", "client", "email", "coding"],
+
+  "sleep": ["sleep", "nap", "rest", "so jana", "aram"],
+
+  "personal": ["shower", "ghusl", "grooming", "clean", "laundry", "shopping"]
+}
